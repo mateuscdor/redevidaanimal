@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "system": {
     "version": "1.0.0",
-    "name": "Simples Voip",
-    "url": "http://simplesvoip.com.br"
+    "name": "Conecteup",
+    "url": "http://conecteup.com"
   },
   "private": true,
   "dependencies": {
