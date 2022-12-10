@@ -125,25 +125,7 @@ const MainListItems = (props) => {
         yes={() => (
           <>
             <Divider />
-            <ListSubheader inset>
-              {i18n.t("mainDrawer.listItems.gerenciarcampanha")}
-            </ListSubheader>
-
-            <ListItemLink
-              to="/BulkMessage"
-              primary="Campanhas"
-              icon={<ChatBubbleOutlineOutlined />}
-            />
-            <ListItemLink
-              to="/ShippingReport"
-              primary="Relatório Envios"
-              icon={<LibraryBooks />}
-            />
-            <ListItemLink
-              to="/SettingsMessage"
-              primary="Config. Envios"
-              icon={<AddCircleOutline />}
-            />
+       
             <Divider />
             <ListSubheader inset>
               {i18n.t("mainDrawer.listItems.administration")}
